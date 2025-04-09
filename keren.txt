@@ -1,1 +1,2 @@
 https://www.splunk.com/en_us/download/previous-releases.html?locale=en_us
+https://www.splunk.com/en_us/download/previous-releases-universal-forwarder.html
